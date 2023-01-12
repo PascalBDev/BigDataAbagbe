@@ -1,2 +1,2 @@
-# BigDataAbagbe
-Korrelation von Amazon Review Daten
+### Ordner "Pascals anpassung"
+Skript welches auf Sergios Datei aufbaut
